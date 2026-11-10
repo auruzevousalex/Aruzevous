@@ -7,3 +7,5 @@ Xin chao! Toi dang hoc GitHub.
 - Hoc cach su dung Git
 - Hoc quan ly ma nguon
 - Hoc lap trinh
+
+- Thay doi
